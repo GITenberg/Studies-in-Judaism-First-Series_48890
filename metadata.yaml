@@ -1,4 +1,8 @@
 _repo: Studies-in-Judaism-First-Series_48890
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48890-h/images/cover.jpg
 creator:
   author:
     agent_name: Schechter, Solomon
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45024
     wikipedia: http://en.wikipedia.org/wiki/Solomon_Schechter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48890#Studies-in-Judaism-First-Series
 gutenberg_issued: '2015-05-06'
 gutenberg_type: Text
 identifiers:
